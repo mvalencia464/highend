@@ -75,7 +75,7 @@ function App() {
             <div className="relative">
               <div className="absolute inset-0 border border-white/10 translate-x-4 translate-y-4 z-0"></div>
               <img 
-                src="/images/7095ddf4-44d0-43d2-853c-38ae912834be.webp" 
+                src="/images/elevated-deck-framing.webp" 
                 className="relative z-10 grayscale hover:grayscale-0 transition-all duration-700 shadow-2xl"
                 alt="Expert Framing and Engineering"
               />
@@ -91,7 +91,7 @@ function App() {
               <div className="relative order-2 lg:order-1">
                 <div className="absolute -inset-4 border-2 border-secondary/20 -rotate-2 z-0"></div>
                 <img 
-                  src="/images/119908b2-0c71-4e32-919a-9c0276237535.webp" 
+                  src="/images/waterfront-glass-deck.webp" 
                   alt="Kevin building custom deck" 
                   className="relative z-10 shadow-xl w-full object-cover aspect-[4/5] filter brightness-[0.9] contrast-[1.1]"
                 />
